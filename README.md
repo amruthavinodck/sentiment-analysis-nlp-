@@ -31,8 +31,7 @@ Python · Pandas · NumPy · Scikit-learn (TF-IDF, Naive Bayes, Logistic Regress
 - `sentiment_analysis.py` — standalone script version
 - `generate_data.py` — synthetic review data generator (compositional phrasing + ~3% label noise for realism)
 - `customer_feedback.csv` — dataset used
-- `*.png` — EDA and evaluation visuals
-
+- `
 ## What I'd add with more time
 - Compare against a transformer-based model (e.g., DistilBERT)
 - Build a simple dashboard tracking sentiment trend over time
